@@ -1,3 +1,4 @@
+# https://discord.gg/ySx5pTKV5G Join For Help
 # CSharpAuth:
 C# Auth With MySQL Using HDD Serial.
 
